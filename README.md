@@ -1,7 +1,7 @@
 <h1 align="center">Marco Fellype</h1>
 
 <p align="center">
-  Desenvolvedor Full Stack · Professor de TI · Especialista em Produto Digital
+  Desenvolvedor Full Stack ·
 </p>
 
 ---
@@ -13,10 +13,7 @@
 ## Sobre
 
 - Atuação em desenvolvimento full stack com JavaScript e TypeScript
-- Professor de Tecnologia no SENAI e SENAC; criador do canal Professor Corrêa
 - Especialista em acessibilidade, UI/UX, clean code e liderança de produtos digitais
-- Pós-graduação em Engenharia de Software e Digital Product Leadership
-- Experiência em automação de processos e integração de sistemas utilizando Python
 
 ## Projetos em destaque
 
