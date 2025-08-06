@@ -18,6 +18,6 @@
 ## Contato
 
 - [LinkedIn](https://www.linkedin.com/in/marco-dias-50369b353/)
-- [Instagram - Professor Corrêa](https://www.instagram.com/marco.dias.4)
+- [Instagram - Marco Dias](https://www.instagram.com/marco.dias.4)
 
 ---
