@@ -13,7 +13,6 @@
 ## Sobre
 
 - Atuação em desenvolvimento full stack com JavaScript
-- Especialista em UI/UX e clean code
 
 ## Contato
 
